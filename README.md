@@ -1,6 +1,27 @@
 # danieltefera08
 
-A cloud-native asynchronous MQTT Broker written in Rust.
+
+[![GitHub tag](https://img.shields.io/github/tag/danieltefera08/shunt?include_prereleases=&sort=semver&color=blue&style=flat-square)](https://github.com/danieltefera08/shunt/releases/)
+[![License](https://img.shields.io/badge/License-AGPLv3-blue?style=flat-square)](#license)
+[![issues - shunt](https://img.shields.io/github/issues/danieltefera08/shunt?style=flat-square)](https://github.com/danieltefera08/shunt/issues)
+![Commits/m](https://img.shields.io/github/commit-activity/m/danieltefera08/shunt?style=flat-square)
+
+
+<div align="center">
+
+
+
+
+
+</div>
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
 
 ## Getting started
 Run `gen-keys.sh` to generate required keys and certificates in the certs folder.
