@@ -1,7 +1,7 @@
 # danieltefera08
 A cloud-native asynchronous MQTT V5 Broker written in Rust.
 
-
+![CI](https://img.shields.io/github/actions/workflow/status/danieltefera08/shunt/ci.yml?style=flat-square)
 [![GitHub tag](https://img.shields.io/github/tag/danieltefera08/shunt?include_prereleases=&sort=semver&color=blue&style=flat-square)](https://github.com/danieltefera08/shunt/releases/)
 [![License](https://img.shields.io/badge/License-AGPLv3-blue?style=flat-square)](#license)
 [![issues - shunt](https://img.shields.io/github/issues/danieltefera08/shunt?style=flat-square)](https://github.com/danieltefera08/shunt/issues)
