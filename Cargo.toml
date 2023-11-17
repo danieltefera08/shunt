@@ -2,7 +2,7 @@
 name = "shunt"
 version = "0.8.0"
 edition = "2021"
-authors = ["danieltefera08 <danielteferabirhanu@gmail.com>", "danieltefera08 <danielteferabirhanu@gmail.com>"]
+authors = ["Daniel Tefera Birhanu <danielteferabirhanu@gmail.com>"]
 description = "A cloud-native asynchronous MQTT broker written in Rust"
 repository = "https://github.com/danieltefera08/shunt"
 license = "AGPL-3.0-or-later"

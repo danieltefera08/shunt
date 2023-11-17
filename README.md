@@ -1,4 +1,4 @@
-# danieltefera08
+# shunt
 A cloud-native asynchronous MQTT V5 Broker written in Rust.
 
 ![CI](https://img.shields.io/github/actions/workflow/status/danieltefera08/shunt/ci.yml?style=flat-square)
